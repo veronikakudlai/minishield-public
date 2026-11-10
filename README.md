@@ -4,17 +4,10 @@ Public resources for the independent **MiniShield** Safari content-blocking app.
 
 ## Privacy policy
 
-The same MiniShield privacy practices are documented in nine languages. The app interface currently has English and Russian localizations; cookie-notice recognition also handles other languages.
+MiniShield's app interface and public privacy policy are available in two languages: English and Russian. The cookie-notice detector also recognizes other languages independently of the user interface.
 
-- **Русский:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md)
-- **English:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/en/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md)
-- **Deutsch:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/de/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/de/index.md)
-- **Français:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/fr/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/fr/index.md)
-- **Español:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/es/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/es/index.md)
-- **Italiano:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/it/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/it/index.md)
-- **Bahasa Indonesia:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/id/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/id/index.md)
-- **ไทย:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/th/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/th/index.md)
-- **Ελληνικά:** [Read policy](https://veronikakudlai.github.io/minishield-public/privacy/el/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/el/index.md)
+- **Русский:** [Политика конфиденциальности](https://veronikakudlai.github.io/minishield-public/privacy/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md)
+- **English:** [Privacy Policy](https://veronikakudlai.github.io/minishield-public/privacy/en/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md)
 
 
 ## Support and privacy contact
