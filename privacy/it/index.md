@@ -46,7 +46,7 @@ Puoi cambiare modalità, disattivare funzioni, rimuovere eccezioni e disabilitar
 
 ### 8. Sicurezza e limiti
 
-Le regole scaricate sono verificate con firme crittografiche e checksum prima dell'applicazione. Si applicano le protezioni del dispositivo, ma non è possibile garantire sicurezza assoluta. MiniShield funziona solo in Safari: non è una VPN, un proxy o un servizio di anonimato.
+Gli aggiornamenti firmati delle regole cookie sono verificati con firme crittografiche e checksum; gli aggiornamenti degli elenchi di domini sono controllati tramite hash della fonte e verifiche del formato. Si applicano le protezioni del dispositivo, ma non è possibile garantire sicurezza assoluta. MiniShield funziona solo in Safari: non è una VPN, un proxy o un servizio di anonimato.
 
 ### 9. Modifiche
 
