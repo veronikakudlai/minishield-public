@@ -7,9 +7,10 @@ lang: ru
 
 # Политика конфиденциальности MiniShield
 
-[English](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md)
+[Русский](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md) · [English](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md) · [Deutsch](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/de/index.md) · [Français](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/fr/index.md) · [Español](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/it/index.md) · [Bahasa Indonesia](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/id/index.md) · [ไทย](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/th/index.md) · [Ελληνικά](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/el/index.md)
 
 **Дата вступления в силу:** 5 ноября 2026 года  
+**Последнее обновление:** 10 ноября 2026 года  
 **Контакт по вопросам конфиденциальности:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
 **Поддержка приложения:** [GitHub Issues](https://github.com/veronikakudlai/minishield-public/issues)
 
@@ -24,7 +25,7 @@ MiniShield помогает уменьшать количество реклам
 Для применения выбранных вами настроек Приложение может хранить на устройстве:
 
 - состояние защиты, выбранный режим и включённые функции;
-- указанные вами исключения для сайтов и для обработки cookie-уведомлений;
+- указанные вами полные исключения для сайтов, отдельные исключения только для cookie-защиты и исключения совместимости (отключение нативного CSS-скрытия);
 - локальные списки правил, их версии, контрольные суммы и сведения, необходимые для проверки обновлений и восстановления предыдущей версии;
 - техническое состояние применения настроек к расширению Safari.
 
@@ -56,7 +57,7 @@ MiniShield не является VPN, прокси-сервисом или ср�
 
 Для функций на странице Safari Web Extension запрашивает доступ к разрешённым пользователем сайтам, использует связь с основным приложением и возможности текущей вкладки. Права доступа, включая использование в частном режиме, управляются средствами Safari.
 
-При проверке и загрузке обновлений правил MiniShield устанавливает HTTPS-соединения с внешним сервисом размещения файлов. Такой сервис может получать стандартные сведения о подключении, в том числе IP-адрес, время запроса и технические параметры HTTP-соединения, в соответствии со своими условиями и политикой конфиденциальности. В запросы за правилами не включаются история посещений, текст страниц или решения пользователя о согласии на cookies.
+При проверке и загрузке обновлений правил MiniShield устанавливает HTTPS-соединения с внешними сервисами размещения файлов, в том числе с сервисами GitHub. Такие сервисы могут получать стандартные сведения о подключении, в том числе IP-адрес, время запроса и технические параметры HTTP-соединения, в соответствии со своими условиями и политикой конфиденциальности. В запросы за правилами не включаются история посещений, текст страниц или решения пользователя о согласии на cookies.
 
 Установка и обновление Приложения, работа Safari и резервное копирование также могут сопровождаться самостоятельной обработкой данных поставщиками операционной системы, магазина приложений или выбранного сервиса. Настоящая Политика не регулирует обработку данных такими независимыми сторонами.
 
