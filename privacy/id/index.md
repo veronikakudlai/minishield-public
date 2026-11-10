@@ -46,7 +46,7 @@ Anda dapat mengganti mode, menonaktifkan fitur, menghapus pengecualian, atau men
 
 ### 8. Keamanan dan keterbatasan
 
-Aturan yang diunduh diverifikasi menggunakan tanda tangan kriptografis dan checksum sebelum diterapkan. Data juga bergantung pada perlindungan keamanan perangkat; keamanan mutlak tidak dapat dijamin. MiniShield hanya bekerja di Safari, bukan VPN, proksi, atau layanan anonimitas.
+Pembaruan aturan cookie yang ditandatangani diverifikasi dengan tanda tangan kriptografis dan checksum. Pembaruan daftar domain divalidasi menggunakan hash sumber dan pemeriksaan format. Data juga bergantung pada perlindungan keamanan perangkat; keamanan mutlak tidak dapat dijamin. MiniShield hanya bekerja di Safari, bukan VPN, proksi, atau layanan anonimitas.
 
 ### 9. Perubahan kebijakan
 
