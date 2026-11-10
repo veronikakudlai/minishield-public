@@ -12,6 +12,7 @@ permalink: /
 
 [Русский](https://veronikakudlai.github.io/minishield-public/privacy/) · [English](https://veronikakudlai.github.io/minishield-public/privacy/en/)
 
+
 ## Contact
 
 - [Support — GitHub Issues](https://github.com/veronikakudlai/minishield-public/issues)
