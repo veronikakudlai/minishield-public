@@ -46,7 +46,7 @@ Sie können Funktionen deaktivieren, Modi ändern, Ausnahmen entfernen und Safar
 
 ### 8. Sicherheit und Grenzen
 
-Extern bezogene Regeln werden vor der Anwendung mit Signaturen und Prüfsummen kontrolliert. Daten werden durch die Sicherheitsmechanismen des Geräts geschützt, ohne dass absolute Sicherheit zugesichert werden kann. MiniShield arbeitet nur in Safari und ist weder VPN noch Proxy noch Anonymisierungsdienst.
+Signierte Cookie-Regel-Aktualisierungen werden mit kryptografischen Signaturen und Prüfsummen geprüft; Aktualisierungen der Domainlisten werden anhand von Quell-Hashes und Formatprüfungen kontrolliert. Daten werden durch die Sicherheitsmechanismen des Geräts geschützt, ohne dass absolute Sicherheit zugesichert werden kann. MiniShield arbeitet nur in Safari und ist weder VPN noch Proxy noch Anonymisierungsdienst.
 
 ### 9. Änderungen
 
