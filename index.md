@@ -10,7 +10,8 @@ permalink: /
 
 ## Privacy policy
 
-[Русский](https://veronikakudlai.github.io/minishield-public/privacy/) · [English](https://veronikakudlai.github.io/minishield-public/privacy/en/)
+[Русский](https://veronikakudlai.github.io/minishield-public/privacy/) · [English](https://veronikakudlai.github.io/minishield-public/privacy/en/) · [Deutsch](https://veronikakudlai.github.io/minishield-public/privacy/de/) · [Français](https://veronikakudlai.github.io/minishield-public/privacy/fr/) · [Español](https://veronikakudlai.github.io/minishield-public/privacy/es/) · [Italiano](https://veronikakudlai.github.io/minishield-public/privacy/it/) · [Bahasa Indonesia](https://veronikakudlai.github.io/minishield-public/privacy/id/) · [ไทย](https://veronikakudlai.github.io/minishield-public/privacy/th/) · [Ελληνικά](https://veronikakudlai.github.io/minishield-public/privacy/el/)
+
 
 ## Contact
 
