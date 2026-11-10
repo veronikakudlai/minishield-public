@@ -46,7 +46,7 @@ Vous pouvez modifier le mode, désactiver des fonctions, supprimer des exception
 
 ### 8. Sécurité et limites
 
-Les règles téléchargées sont contrôlées au moyen de signatures cryptographiques et d’empreintes avant application. La sécurité dépend aussi des protections de l’appareil ; aucune protection absolue n’est garantie. MiniShield agit uniquement dans Safari : ce n’est ni un VPN, ni un proxy, ni un service d’anonymat.
+Les mises à jour signées des règles de cookies sont vérifiées par signature cryptographique et empreinte. Les listes de domaines sont contrôlées à l’aide des empreintes de leur source et de vérifications de format. La sécurité dépend aussi des protections de l’appareil ; aucune protection absolue n’est garantie. MiniShield agit uniquement dans Safari : ce n’est ni un VPN, ni un proxy, ni un service d’anonymat.
 
 ### 9. Modifications
 
