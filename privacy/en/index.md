@@ -7,9 +7,10 @@ lang: en
 
 # MiniShield Privacy Policy
 
-[Русский](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md)
+[Русский](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md) · [English](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md) · [Deutsch](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/de/index.md) · [Français](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/fr/index.md) · [Español](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/it/index.md) · [Bahasa Indonesia](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/id/index.md) · [ไทย](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/th/index.md) · [Ελληνικά](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/el/index.md)
 
 **Effective date:** 5 November 2026  
+**Last updated:** 10 November 2026  
 **Privacy contact:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
 **App support:** [GitHub Issues](https://github.com/veronikakudlai/minishield-public/issues)
 
@@ -24,7 +25,7 @@ MiniShield helps reduce ads, tracking requests, cookie notices and certain intru
 To apply the protection options you select, the App may store the following on your device:
 
 - whether protection is enabled, the selected mode and individual feature preferences;
-- website-wide exclusions and exclusions limited to cookie-notice handling;
+- full-site exclusions, cookie-only exclusions and site-compatibility exclusions (which disable native CSS hiding);
 - locally stored rules, their versions, checksums and information used to validate updates and restore a previous version;
 - technical state indicating whether updated settings have been applied to the Safari extension.
 
@@ -56,7 +57,7 @@ MiniShield is not a VPN, proxy or anonymity service. It works within Safari and 
 
 To provide on-page features, the Safari Web Extension requests access to websites you authorize, communicates with the containing App, and uses current-tab functionality. Safari controls these permissions, including access in private browsing.
 
-When checking for and downloading rule updates, MiniShield establishes HTTPS connections to an external file-hosting service. That service may receive ordinary connection information, such as IP address, request time and technical HTTP connection data, under its own terms and privacy practices. Update requests do not include browsing history, webpage text or your cookie-consent decisions.
+When checking for and downloading rule updates, MiniShield establishes HTTPS connections to external file-hosting services, including GitHub services. Those services may receive ordinary connection information, such as IP address, request time and technical HTTP connection data, under its own terms and privacy practices. Update requests do not include browsing history, webpage text or your cookie-consent decisions.
 
 App installation and updates, Safari operation and device backups may also involve independent processing by the operating-system provider, app marketplace or a service of your choosing. This Policy does not govern those independent services.
 
