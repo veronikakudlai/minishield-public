@@ -7,7 +7,7 @@ lang: en
 
 # MiniShield Privacy Policy
 
-[Русский](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md) · [English](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md) · [Deutsch](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/de/index.md) · [Français](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/fr/index.md) · [Español](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/es/index.md) · [Italiano](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/it/index.md) · [Bahasa Indonesia](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/id/index.md) · [ไทย](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/th/index.md) · [Ελληνικά](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/el/index.md)
+[Русский](https://veronikakudlai.github.io/minishield-public/privacy/)
 
 **Effective date:** 5 November 2026  
 **Last updated:** 10 November 2026  
