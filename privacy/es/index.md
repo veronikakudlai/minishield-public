@@ -46,7 +46,7 @@ Puedes modificar el modo, desactivar funciones, eliminar excepciones y desactiva
 
 ### 8. Seguridad y limitaciones
 
-Las reglas descargadas se verifican mediante firmas criptográficas y sumas de comprobación antes de aplicarse. También se utilizan las protecciones del dispositivo, sin prometer seguridad absoluta. MiniShield solo funciona en Safari: no es una VPN, un proxy ni un servicio de anonimato.
+Las actualizaciones firmadas de reglas de cookies se verifican mediante firmas criptográficas y sumas de comprobación. Las listas de dominios se validan mediante huellas de su origen y comprobaciones de formato. También se utilizan las protecciones del dispositivo, sin prometer seguridad absoluta. MiniShield solo funciona en Safari: no es una VPN, un proxy ni un servicio de anonimato.
 
 ### 9. Cambios en esta política
 
