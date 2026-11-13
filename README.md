@@ -4,8 +4,11 @@ Public resources for the independent **MiniShield** Safari content-blocking app.
 
 ## Privacy policy
 
-- [Политика конфиденциальности — Русский](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md) · [Web page](https://veronikakudlai.github.io/minishield-public/privacy/)
-- [Privacy Policy — English](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md) · [Web page](https://veronikakudlai.github.io/minishield-public/privacy/en/)
+MiniShield's app interface and public privacy policy are available in two languages: English and Russian. The cookie-notice detector also recognizes other languages independently of the user interface.
+
+- **Русский:** [Политика конфиденциальности](https://veronikakudlai.github.io/minishield-public/privacy/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md)
+- **English:** [Privacy Policy](https://veronikakudlai.github.io/minishield-public/privacy/en/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md)
+
 
 ## Support and privacy contact
 
