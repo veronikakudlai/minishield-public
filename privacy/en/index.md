@@ -7,8 +7,6 @@ lang: en
 
 # MiniShield Privacy Policy
 
-[Русский](https://veronikakudlai.github.io/minishield-public/privacy/)
-
 **Effective date:** 5 November 2026  
 **Last updated:** 10 November 2026  
 **Privacy contact:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
