@@ -1,30 +1,48 @@
-# MiniShield — public resources
+# MiniShield
 
-Public resources for the independent **MiniShield** Safari content-blocking app.
+**Free Safari protection for iPhone and iPad.**
 
-## Privacy policy
+MiniShield helps reduce known ads and tracking requests, hide supported cookie notices and optional sign-in prompts, and remove recognized tracking parameters from eligible links. Choose a **Basic**, **Balanced**, or **Strict** protection mode in the app.
 
-MiniShield's app interface and public privacy policy are available in two languages: English and Russian. The cookie-notice detector also recognizes other languages independently of the user interface.
+**Важно:** MiniShield помогает уменьшать рекламу и отслеживание в Safari. Скрытие cookie-баннера не означает отказ от cookies. [Политика конфиденциальности на русском](https://veronikakudlai.github.io/minishield-public/privacy/).
 
-- **Русский:** [Политика конфиденциальности](https://veronikakudlai.github.io/minishield-public/privacy/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/index.md)
-- **English:** [Privacy Policy](https://veronikakudlai.github.io/minishield-public/privacy/en/) · [GitHub source](https://github.com/veronikakudlai/minishield-public/blob/main/privacy/en/index.md)
+> MiniShield works in Safari, not across all apps. It is not a VPN or an anonymity service. Hiding a cookie notice does not mean cookies were rejected or that all tracking stopped.
 
+## Getting started
 
-## Support and privacy contact
+After installing MiniShield:
 
-- **App support and bug reports:** [GitHub Issues](https://github.com/veronikakudlai/minishield-public/issues)
-- **Private privacy inquiries:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)
+1. Open **iOS Settings → Apps → Safari → Extensions** and enable the MiniShield Web Extension and Content Blocker.
+2. Grant the Web Extension access to websites you want it to protect when Safari asks.
+3. Open **MiniShield**, choose your protection mode, and customize cookie protection as needed.
 
-Issues are public. Do not disclose browsing history, webpage content, cookie values or personally identifying information in an issue.
+**Как включить:** после установки MiniShield откройте **Настройки iOS → Приложения → Safari → Расширения**, включите Web Extension и Content Blocker и предоставьте доступ к нужным сайтам. Затем откройте MiniShield и выберите режим защиты.
 
-## Signed filter dataset
+Protection depends on Safari permissions, the selected mode and the website. Some banners may remain visible to avoid interfering with essential content.
 
-This repository separately distributes an **adapted EasyList Cookie** declarative Safari filter dataset. The licensing and attribution conditions are specified in [LICENSE](https://github.com/veronikakudlai/minishield-public/blob/main/LICENSE), including CC BY-SA 3.0 and attribution to the EasyList authors.
+## Privacy and support
 
-The `stable.json` manifest and detached `stable.sig` are signed release metadata. Immutable release snapshots and optional deltas are located under `releases/`. Only rule datasets — not executable source code or private signing material — are distributed here. Privacy documents are independent of the signed rule manifest.
+- [Privacy Policy — English](https://veronikakudlai.github.io/minishield-public/privacy/en/)
+- [Политика конфиденциальности — Русский](https://veronikakudlai.github.io/minishield-public/privacy/)
+- [Support and bug reports — GitHub Issues](https://github.com/veronikakudlai/minishield-public/issues)
+- [Private privacy questions — email](mailto:privacy_policy.ios@proton.me)
 
-MiniShield processes page content locally in Safari; downloading filter updates may expose ordinary connection metadata to the file-hosting service. See the public policy for details.
+**GitHub Issues are public.** Do not post personal information, browsing history, private webpage content or cookie values. Use private email for confidential questions.
 
-## Legal
+MiniShield processes webpage information locally for its protection features. Downloading filter updates can reveal normal connection metadata (such as an IP address) to the file host; details are in the privacy policy.
 
-The public privacy policy describes the app's information practices. Dataset licensing is separate from the private source code license for the MiniShield application.
+## What is in this repository?
+
+This is **MiniShield's public information and filter-data repository**, not an installer or the app's source-code repository.
+
+| Content | Where to find it |
+| --- | --- |
+| Privacy policies | [Русский](privacy/index.md) · [English](privacy/en/index.md) |
+| EasyList Cookie filter data | Signed metadata: [stable.json](stable.json) / [stable.sig](stable.sig); versioned files in [releases](releases/) |
+| Steven Black hosts data | Signed metadata and snapshots in [hosts](hosts/) |
+| EasyList attribution and reuse terms | [Dataset LICENSE](LICENSE) |
+| Steven Black attribution and MIT notice | [Hosts license](hosts/LICENSE-StevenBlack.txt) |
+
+The signed datasets are downloaded and verified **by MiniShield**. Ordinary users do not need to download JSON, signatures or host files manually. Private signing keys are not published here.
+
+**Licensing:** the adapted EasyList Cookie filter dataset is published under **CC BY-SA 3.0**; Steven Black's contributed hosts data have a separate **MIT** notice. These dataset licenses do not apply automatically to the independently developed MiniShield application.
