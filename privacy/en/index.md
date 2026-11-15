@@ -69,7 +69,7 @@ Because the developer does not receive a record of the websites you visit or the
 
 ### 8. Information security and limitations
 
-MiniShield aims to limit information handling to what is necessary for its features. Information is stored within the device's operating-system environment. Signed cookie-rule updates are validated with cryptographic signatures and checksums before installation. Domain-list updates are validated using source hashes and rule-format checks.
+MiniShield aims to limit information handling to what is necessary for its features. Information is stored within the device's operating-system environment. Protection-list updates, including cookie-notice blocking rules and domain lists, are downloaded from designated sources. Before applying updates, the App verifies their digital signatures, integrity, and rule format. An update that fails validation is not applied. You can also restore a previously saved version of the lists when needed.
 
 No mechanism can provide absolute protection from all ads or tracking technologies. We recommend keeping your device and operating system updated and using available security features such as a device passcode.
 
