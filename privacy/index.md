@@ -7,8 +7,6 @@ lang: ru
 
 # Политика конфиденциальности MiniShield
 
-[English](https://veronikakudlai.github.io/minishield-public/privacy/en/)
-
 **Дата вступления в силу:** 5 ноября 2026 года  
 **Последнее обновление:** 10 ноября 2026 года  
 **Контакт по вопросам конфиденциальности:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
