@@ -6,18 +6,28 @@ permalink: /
 
 # MiniShield
 
-**Privacy and support for the MiniShield Safari extension.**
+**Free Safari protection for iPhone and iPad.** MiniShield helps reduce known ads and trackers, and hide supported cookie banners and optional sign-in prompts.
 
-## Privacy policy
+**Русский:** MiniShield помогает уменьшать рекламу и отслеживание в Safari и скрывать поддерживаемые cookie-уведомления.
 
-[Русский](https://veronikakudlai.github.io/minishield-public/privacy/) · [English](https://veronikakudlai.github.io/minishield-public/privacy/en/)
+MiniShield is not a VPN. Hiding a cookie notice does not itself reject cookies or stop all tracking.
 
+## Privacy / Конфиденциальность
 
-## Contact
+- [Privacy Policy — English](privacy/en/)
+- [Политика конфиденциальности — Русский](privacy/)
 
-- [Support — GitHub Issues](https://github.com/veronikakudlai/minishield-public/issues)
-- [Private privacy inquiries](mailto:privacy_policy.ios@proton.me)
+## Help / Поддержка
 
-Issues are public. Please do not include personally identifying information, websites you visited or cookie contents.
+- [Report a problem or request support](https://github.com/veronikakudlai/minishield-public/issues)
+- [Private privacy questions](mailto:privacy_policy.ios@proton.me)
 
-[EasyList filter dataset license](https://github.com/veronikakudlai/minishield-public/blob/main/LICENSE)
+GitHub Issues are **public**. Please do not post personal information, private page contents, browsing history or cookie values.
+
+## Public filter information
+
+This site also hosts signed filter-data releases used by the app. Files such as JSON manifests and digital signatures are **not installation instructions**; MiniShield handles updates itself.
+
+- [About the app and this repository](README.md)
+- [EasyList Cookie data: license and attribution](LICENSE)
+- [Steven Black hosts: MIT notice](hosts/LICENSE-StevenBlack.txt)
