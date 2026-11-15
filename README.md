@@ -16,6 +16,8 @@ After installing MiniShield:
 2. Grant the Web Extension access to websites you want it to protect when Safari asks.
 3. Open **MiniShield**, choose your protection mode, and customize cookie protection as needed.
 
+**Как включить:** после установки MiniShield откройте **Настройки iOS → Приложения → Safari → Расширения**, включите Web Extension и Content Blocker и предоставьте доступ к нужным сайтам. Затем откройте MiniShield и выберите режим защиты.
+
 Protection depends on Safari permissions, the selected mode and the website. Some banners may remain visible to avoid interfering with essential content.
 
 ## Privacy and support

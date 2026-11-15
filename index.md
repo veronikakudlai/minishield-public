@@ -28,6 +28,6 @@ GitHub Issues are **public**. Please do not post personal information, private p
 
 This site also hosts signed filter-data releases used by the app. Files such as JSON manifests and digital signatures are **not installation instructions**; MiniShield handles updates itself.
 
-- [About the app and this repository](README.md)
-- [EasyList Cookie data: license and attribution](LICENSE)
-- [Steven Black hosts: MIT notice](hosts/LICENSE-StevenBlack.txt)
+- [About the app and this repository](https://github.com/veronikakudlai/minishield-public#readme)
+- [EasyList Cookie data: license and attribution](https://github.com/veronikakudlai/minishield-public/blob/main/LICENSE)
+- [Steven Black hosts: MIT notice](https://github.com/veronikakudlai/minishield-public/blob/main/hosts/LICENSE-StevenBlack.txt)
