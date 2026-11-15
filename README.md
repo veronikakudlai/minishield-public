@@ -1,10 +1,10 @@
 # MiniShield
 
+**Language:** English · [Русский](README.ru.md)
+
 **Free Safari protection for iPhone and iPad.**
 
 MiniShield helps reduce known ads and tracking requests, hide supported cookie notices and optional sign-in prompts, and remove recognized tracking parameters from eligible links. Choose a **Basic**, **Balanced**, or **Strict** protection mode in the app.
-
-**Важно:** MiniShield помогает уменьшать рекламу и отслеживание в Safari. Скрытие cookie-баннера не означает отказ от cookies. [Политика конфиденциальности на русском](https://veronikakudlai.github.io/minishield-public/privacy/).
 
 > MiniShield works in Safari, not across all apps. It is not a VPN or an anonymity service. Hiding a cookie notice does not mean cookies were rejected or that all tracking stopped.
 
@@ -16,14 +16,12 @@ After installing MiniShield:
 2. Grant the Web Extension access to websites you want it to protect when Safari asks.
 3. Open **MiniShield**, choose your protection mode, and customize cookie protection as needed.
 
-**Как включить:** после установки MiniShield откройте **Настройки iOS → Приложения → Safari → Расширения**, включите Web Extension и Content Blocker и предоставьте доступ к нужным сайтам. Затем откройте MiniShield и выберите режим защиты.
-
 Protection depends on Safari permissions, the selected mode and the website. Some banners may remain visible to avoid interfering with essential content.
 
 ## Privacy and support
 
 - [Privacy Policy — English](https://veronikakudlai.github.io/minishield-public/privacy/en/)
-- [Политика конфиденциальности — Русский](https://veronikakudlai.github.io/minishield-public/privacy/)
+- [Privacy Policy — Russian](https://veronikakudlai.github.io/minishield-public/privacy/)
 - [Support and bug reports — GitHub Issues](https://github.com/veronikakudlai/minishield-public/issues)
 - [Private privacy questions — email](mailto:privacy_policy.ios@proton.me)
 
@@ -37,7 +35,7 @@ This is **MiniShield's public information and filter-data repository**, not an i
 
 | Content | Where to find it |
 | --- | --- |
-| Privacy policies | [Русский](privacy/index.md) · [English](privacy/en/index.md) |
+| Privacy policies | [Russian](privacy/index.md) · [English](privacy/en/index.md) |
 | EasyList Cookie filter data | Signed metadata: [stable.json](stable.json) / [stable.sig](stable.sig); versioned files in [releases](releases/) |
 | Steven Black hosts data | Signed metadata and snapshots in [hosts](hosts/) |
 | EasyList attribution and reuse terms | [Dataset LICENSE](LICENSE) |
