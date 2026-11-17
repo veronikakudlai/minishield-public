@@ -44,3 +44,27 @@ This is **MiniShield's public information and filter-data repository**, not an i
 The signed datasets are downloaded and verified **by MiniShield**. Ordinary users do not need to download JSON, signatures or host files manually. Private signing keys are not published here.
 
 **Licensing:** the adapted EasyList Cookie filter dataset is published under **CC BY-SA 3.0**; Steven Black's contributed hosts data have a separate **MIT** notice. These dataset licenses do not apply automatically to the independently developed MiniShield application.
+
+<!-- MINISHIELD EASYLIST PROVENANCE BEGIN -->
+## EasyList Cookie provenance
+
+Current signed dataset: **v000004**, **6965** rules. Original source: EasyList Cookie List.
+
+- Original EasyList commit: [70605720dcca215d4df6871fac30272338ec8d30](https://github.com/easylist/easylist/commit/70605720dcca215d4df6871fac30272338ec8d30)
+- Adapted rules: [v000004 rules.json](releases/v000004/rules.json)
+- Signed manifest: [stable.json](stable.json)
+- Release provenance: [v000004 SOURCE.md](releases/v000004/SOURCE.md)
+- License: [CC BY-SA 3.0](LICENSE)
+<!-- MINISHIELD EASYLIST PROVENANCE END -->
+
+<!-- MINISHIELD HOSTS PROVENANCE BEGIN -->
+## StevenBlack hosts provenance
+
+Current signed hosts dataset: **v000001**. Original source: Steven Black.
+
+- Original commit: [681b61eceef1cabaa434394a97babef5d57bdc78](https://github.com/StevenBlack/hosts/commit/681b61eceef1cabaa434394a97babef5d57bdc78)
+- Signed hosts list: [v000001 hosts.txt](hosts/releases/v000001/hosts.txt)
+- Signed manifest: [hosts/stable.json](hosts/stable.json)
+- Release provenance: [v000001 SOURCE.md](hosts/releases/v000001/SOURCE.md)
+- License: [MIT](hosts/LICENSE-StevenBlack.txt)
+<!-- MINISHIELD HOSTS PROVENANCE END -->

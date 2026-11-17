@@ -44,3 +44,27 @@ MiniShield обрабатывает сведения со страниц лок�
 MiniShield самостоятельно загружает и проверяет подписанные данные. Пользователю не нужно вручную скачивать JSON, подписи или файлы доменных списков. Закрытые ключи подписи здесь не публикуются.
 
 **Лицензии:** адаптированные фильтры EasyList Cookie распространяются по лицензии **CC BY-SA 3.0**, а данные Steven Black — с отдельным уведомлением **MIT**. Эти лицензии не распространяются автоматически на независимо разработанный исходный код MiniShield.
+
+<!-- MINISHIELD EASYLIST PROVENANCE BEGIN -->
+## Происхождение EasyList Cookie
+
+Текущий подписанный набор: **v000004**, **6965** правил. Источник — EasyList Cookie List.
+
+- Исходный commit EasyList: [70605720dcca215d4df6871fac30272338ec8d30](https://github.com/easylist/easylist/commit/70605720dcca215d4df6871fac30272338ec8d30)
+- Адаптированные правила: [v000004 rules.json](releases/v000004/rules.json)
+- Подписанный манифест: [stable.json](stable.json)
+- Происхождение выпуска: [v000004 SOURCE.md](releases/v000004/SOURCE.md)
+- Лицензия: [CC BY-SA 3.0](LICENSE)
+<!-- MINISHIELD EASYLIST PROVENANCE END -->
+
+<!-- MINISHIELD HOSTS PROVENANCE BEGIN -->
+## Происхождение StevenBlack hosts
+
+Текущий подписанный набор hosts: **v000001**. Источник — Steven Black.
+
+- Исходный commit: [681b61eceef1cabaa434394a97babef5d57bdc78](https://github.com/StevenBlack/hosts/commit/681b61eceef1cabaa434394a97babef5d57bdc78)
+- Подписанный список: [v000001 hosts.txt](hosts/releases/v000001/hosts.txt)
+- Подписанный манифест: [hosts/stable.json](hosts/stable.json)
+- Происхождение выпуска: [v000001 SOURCE.md](hosts/releases/v000001/SOURCE.md)
+- Лицензия: [MIT](hosts/LICENSE-StevenBlack.txt)
+<!-- MINISHIELD HOSTS PROVENANCE END -->
