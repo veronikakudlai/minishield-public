@@ -8,7 +8,7 @@ lang: en
 # MiniShield Privacy Policy
 
 **Effective date:** 5 November 2026  
-**Last updated:** 10 November 2026  
+**Last updated:** 20 November 2026  
 **Privacy contact:** [privacy_policy.ios@proton.me](mailto:privacy_policy.ios@proton.me)  
 **App support:** [GitHub Issues](https://github.com/veronikakudlai/minishield-public/issues)
 
@@ -22,12 +22,14 @@ MiniShield helps reduce ads, tracking requests, cookie notices and certain intru
 
 To apply the protection options you select, the App may store the following on your device:
 
-- whether protection is enabled, the selected mode and individual feature preferences;
+- whether protection is enabled, the selected mode and individual feature preferences, including the optional external-app confirmation setting and its selected mode;
 - full-site exclusions, cookie-only exclusions and site-compatibility exclusions (which disable native CSS hiding);
 - locally stored rules, their versions, checksums and information used to validate updates and restore a previous version;
 - technical state indicating whether updated settings have been applied to the Safari extension.
 
 Within permissions granted in Safari, the Web Extension may access information from an open page to identify ad elements, cookie notices and optional sign-in prompts. This may include the page address, DOM structure, element attributes, visible control labels and limited indicators of cookie state. These details are processed locally and are not sent to the developer.
+
+When external-app link confirmation is enabled, MiniShield checks supported link destinations and uses a selected URL temporarily to display a prompt and, if approved, continue navigation. MiniShield does not keep a history of app-launch attempts or send these URLs to the developer. The feature is off by default and cannot intercept all Safari or iOS redirects.
 
 ### 3. Where information is stored
 
@@ -39,7 +41,7 @@ If device backup is enabled, certain locally stored information may be included 
 
 ### 4. Purposes of processing
 
-Locally stored information is used to provide the features you choose: network filtering, handling page elements, removing recognized tracking parameters from links, applying exclusions, validating rules, downloading updates and restoring earlier rule versions.
+Locally stored information is used to provide the features you choose: network filtering, handling page elements, removing recognized tracking parameters from links, locally confirming supported external-app links, applying exclusions, validating rules, downloading updates and restoring earlier rule versions.
 
 MiniShield does not include advertising analytics SDKs, create a browsing profile for the developer, sell browsing history or use website information for personalized advertising.
 
@@ -56,6 +58,8 @@ MiniShield is not a VPN, proxy or anonymity service. It works within Safari and 
 To provide on-page features, the Safari Web Extension requests access to websites you authorize, communicates with the containing App, and uses current-tab functionality. Safari controls these permissions, including access in private browsing.
 
 When checking for and downloading rule updates, MiniShield establishes HTTPS connections to external file-hosting services, including GitHub services. Those services may receive ordinary connection information, such as IP address, request time and technical HTTP connection data, under its own terms and privacy practices. Update requests do not include browsing history, webpage text or your cookie-consent decisions.
+
+If you approve opening another app, the operating system, destination app and its service may separately process the selected link under their own terms. MiniShield does not control that processing or filter traffic inside the other app.
 
 App installation and updates, Safari operation and device backups may also involve independent processing by the operating-system provider, app marketplace or a service of your choosing. This Policy does not govern those independent services.
 
