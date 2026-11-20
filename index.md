@@ -8,7 +8,7 @@ permalink: /
 
 **Language:** English · [Русский](https://veronikakudlai.github.io/minishield-public/ru/)
 
-**Free Safari protection for iPhone and iPad.** MiniShield helps reduce known ads and trackers, and hide supported cookie banners and optional sign-in prompts.
+**Free Safari protection for iPhone and iPad.** MiniShield helps reduce known ads and trackers, and hide supported cookie banners and optional sign-in prompts. An optional feature can request confirmation before opening some external app links (not all iOS redirects).
 
 MiniShield is not a VPN. Hiding a cookie notice does not itself reject cookies or stop all tracking.
 
