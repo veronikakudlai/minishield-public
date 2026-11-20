@@ -22,7 +22,7 @@ MiniShield helps reduce ads, tracking requests, cookie notices and certain intru
 
 To apply the protection options you select, the App may store the following on your device:
 
-- whether protection is enabled, the selected mode and individual feature preferences, including the optional external-app confirmation setting and its selected mode;
+- whether protection is enabled, your selected mode and feature preferences, including confirmation before opening other apps;
 - full-site exclusions, cookie-only exclusions and site-compatibility exclusions (which disable native CSS hiding);
 - locally stored rules, their versions, checksums and information used to validate updates and restore a previous version;
 - technical state indicating whether updated settings have been applied to the Safari extension.
