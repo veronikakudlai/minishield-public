@@ -29,7 +29,7 @@ To apply the protection options you select, the App may store the following on y
 
 Within permissions granted in Safari, the Web Extension may access information from an open page to identify ad elements, cookie notices and optional sign-in prompts. This may include the page address, DOM structure, element attributes, visible control labels and limited indicators of cookie state. These details are processed locally and are not sent to the developer.
 
-When external-app link confirmation is enabled, MiniShield checks supported link destinations and uses a selected URL temporarily to display a prompt and, if approved, continue navigation. MiniShield does not keep a history of app-launch attempts or send these URLs to the developer. The feature is off by default and cannot intercept all Safari or iOS redirects.
+When external-app link confirmation is enabled, MiniShield checks supported link destinations and uses a selected URL temporarily to display a prompt and, if approved, continue navigation. MiniShield does not keep a history of app-launch attempts or send these URLs to the developer. Available from MiniShield's first release, the feature is off by default and can be disabled at any time in the app settings. It cannot intercept all Safari or iOS redirects.
 
 ### 3. Where information is stored
 
