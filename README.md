@@ -2,7 +2,7 @@
 
 **Free Safari protection for iPhone and iPad.**
 
-MiniShield helps block known ads and tracking requests, hide supported cookie notices and intrusive sign-in prompts, and remove recognized tracking parameters from links. You can also choose to confirm links before they open another app. This setting is off by default and can be changed at any time. Some iOS app redirects cannot be intercepted. Choose **Basic**, **Balanced**, or **Strict** protection in the app.
+MiniShield helps block known ads and tracking requests, hide supported cookie notices and intrusive sign-in prompts, and remove recognized tracking parameters from links. You can also choose to confirm supported links to Telegram, WhatsApp and Discord. This setting is off by default and can be changed at any time. System app links and unknown URL schemes are not intercepted by this feature. Some iOS redirects cannot be intercepted. Choose **Basic**, **Balanced**, or **Strict** protection in the app.
 
 > MiniShield works in Safari, not across all apps. It is not a VPN or an anonymity service. Hiding a cookie notice does not mean cookies were rejected or that all tracking stopped.
 
